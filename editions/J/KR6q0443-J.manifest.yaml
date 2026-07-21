@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0443_000-J.yaml, hash: 'sha256:d5a3f565bfad878b1f347ffaf5c471bab10e3ecf57f8ea670bc6055c8860279c'}
+  - {seq: 0, filename: KR6q0443_000-J.yaml, hash: 'sha256:a0643683d12e0f646b700d1a42bcaffa3184547fc1c7414ea0eb67f439c762d1'}
   - {seq: 1, filename: KR6q0443_001-J.yaml, hash: 'sha256:d67b6969b2dad58d0c055f861aa09978dee6edd1cdf63395e822729d7a7a2580'}
   - {seq: 2, filename: KR6q0443_002-J.yaml, hash: 'sha256:d12509469e969a9ae4277f41eb2aa857e2fd2d928188e066de76c69a612e914d'}
   - {seq: 3, filename: KR6q0443_003-J.yaml, hash: 'sha256:81dc02d3f49723a3737174c708d21c574bb84a4eed1cd1764fba2b79dff9f0a0'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0443_009-J.yaml, hash: 'sha256:3f37901b246c1dbbab5987471911ebbb601e0ee5fc4a0f9121652f6cf113b772'}
   - {seq: 10, filename: KR6q0443_010-J.yaml, hash: 'sha256:28e4da775afc16dff8e5500ec26b555982c90bccd2f692a6f15c19c77a7e3755'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0443_000-J.markers.yaml, hash: 'sha256:25d509e5b855657d13bdb918fe0fa4b36fcef596f0f329e610f65d65f6e503a4'}
+  - {seq: 0, role: markers, filename: assets/KR6q0443_000-J.markers.yaml, hash: 'sha256:8238ceb2ad4b5d86dbe5ee5f1d8d526d8d1b55e5bb20aad6f07ef51fbcacd831'}
   - {seq: 1, role: markers, filename: assets/KR6q0443_001-J.markers.yaml, hash: 'sha256:ea2f2c901f0b49ba3f8cac57bd2054a2276693305c1e5d726ab8de0f9e44155d'}
   - {seq: 2, role: markers, filename: assets/KR6q0443_002-J.markers.yaml, hash: 'sha256:a44516fa14b4a1c991ec470e9b3bbb7bfd3344c06656f0701308bb0edd62ea02'}
   - {seq: 3, role: markers, filename: assets/KR6q0443_003-J.markers.yaml, hash: 'sha256:1271159ad25247f32919c8a1e88e99b4e290b6d95afba9d0a9e86b15215273cb'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0443_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0443_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 悟進序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0443_J_000-mulu-3
     span:
-    - front
+    - body
     - 257
     - 257
   label: 施博序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0443_J_000-mulu-4
     span:
-    - front
+    - body
     - 558
     - 558
   label: 請啟
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0443_J_000-mulu-5
     span:
-    - front
+    - body
     - 920
     - 920
   label: 目次
@@ -4413,4 +4413,4 @@ table_of_contents:
   label: 臨濟第三十世建寧普明玄微妙用禪師
   type: mulu
   level: 1
-hash: sha256:ce50d1ce6393090e6faf287f9bf6602444b9237493546dc26a82da46743d50ac
+hash: sha256:c9f8a2eadec4f84550400db44c12e0f6c3c8251dd2f579142d321de3a0eec03e
